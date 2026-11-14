@@ -36,7 +36,7 @@ Enter the directory:
 
 Install:
 
-    python3 -m pip install .
+    python3 -m pip install netscope
 
 ## Run from source
 
